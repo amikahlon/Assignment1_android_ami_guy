@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.assignment1_android_ami_guy"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.assignment1_android_ami_guy"
